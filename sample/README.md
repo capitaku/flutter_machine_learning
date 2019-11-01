@@ -1,10 +1,12 @@
 # flutter_machine_learning
 ## 作業内容
 ### 作業準備準備
-  - [X] リポジトリ作成（このリポジトリ）
-  - [X] Flutterをインストール
+  - 全般
+    - [X] リポジトリ作成（このリポジトリ）
+  - flutter
+    - [X] Flutterをインストール
   - Firebase
-    - [X] Flutter アプリに Firebase を追加する
+    - [X] [Flutter アプリに Firebase を追加する](https://firebase.google.com/docs/flutter/setup)
     - [X] 環境を設定する
     - [X] Firebaseプロジェクトを作成する
     - [X] Firebaseを使用するようにアプリを構成する
